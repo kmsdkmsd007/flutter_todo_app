@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46866811170",
+    "project_id": "flutter-todo-app-50d70",
+    "storage_bucket": "flutter-todo-app-50d70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46866811170:android:b7524a1e891c665203bd7b",
+        "android_client_info": {
+          "package_name": "futurTec.flutter_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIR9ioadv5ykDFl2bzYOsfcKLDqqYMRSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
